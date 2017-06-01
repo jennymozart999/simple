@@ -1,8 +1,8 @@
+<!DOCTYPE html>
 <html>
   <head>
-    <META http-equiv="refresh" content="0;URL=/src/index.html">
-  </head>
-</html>
+    <META http-equiv="refresh" content="0;URL=https://zombiephan.github.io/simple/src/index.html">
+
 
 # Simple
 
